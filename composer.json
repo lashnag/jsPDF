@@ -3,5 +3,5 @@
     "type": "library",
     "description": "Save pdf from Json",
     "homepage": "https://github.com/MrRio/jsPDF",
-    "license": "MIT",
+    "license": "MIT"
 }
